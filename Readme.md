@@ -40,6 +40,9 @@ Right now we are working on activating the web view (in progress)
 
 Let me know if you wish to collaborate
 
+* [@csanz](http://github.com/csanz)
+* [@miksago](http://github.com/miksago)
+
 # Resources
 
 * [dgram](http://nodejs.org/api/dgram.html)
