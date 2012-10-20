@@ -1,0 +1,27 @@
+{
+  "author": "Christian Sanz <chris@geekli.st> (http://geekli.st/csanz)",
+  "name": "simucopter",
+  "description": "A node.js simulator for testing Parrot AR Drone 2.0 quad-copters",
+  "version": "0.0.1",
+  "homepage": "https://github.com/felixge/node-ar-drone",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/csanz/simucopter"
+  },
+  "main": "./index",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "dependencies": {
+    "node-ar-drone": "git+https://github.com/csanz/node-ar-drone#master"
+  },
+  "devDependencies": {
+    "utest": "0.0.6",
+    "urun": "0.0.6",
+    "sinon": "1.4.2"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

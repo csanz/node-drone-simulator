@@ -1,0 +1,29 @@
+*.sublime-project
+.DS_Store
+.idea
+.node_history
+Thumbs.db
+tags
+*.orig
+*~
+Session.vim
+
+# npm
+node_modules
+npm-debug.log
+
+# Build and runtime files
+dump
+backups
+nohup.out
+
+#merge junk
+
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
+dump.rdb
+.project
+
